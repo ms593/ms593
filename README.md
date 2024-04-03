@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring boot, hibernate, rest API ,web-services,micro-services,Aws,typescript,Angular**
 
-- 📫 How to reach me **ms593a@gmail.com**
+- 📫 How to reach me **ms67251@gmail.com**
 
 - ⚡ Fun fact **I am funny😁.**
 
