@@ -16,6 +16,9 @@
 
 ### 📫 How to reach me:
 - **Email**: [ms67251@gmail.com](mailto:ms67251@gmail.com)
+- **Discord Profile**: [My Discord Profile](https://discord.com/users/mohitsharma0007)
+- **Join My Java Developer Server**: [Join My Java Developer Server](https://discord.com/channels/1355122911882772592/1355122911882772595)
+
 
 ### ⚡ Fun fact:
 - **I am funny 😁.**
