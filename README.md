@@ -17,7 +17,7 @@
 ### 📫 How to reach me:
 - **Email**: [ms67251@gmail.com](mailto:ms67251@gmail.com)
 - **Discord Profile**: mohitsharma_0007
-- [Join My Developer Group](https://discord.gg/DfmNh7Wc)
+
 
 
 ### ⚡ Fun fact:
